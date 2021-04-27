@@ -30,7 +30,7 @@ Along with that Since Euclid is a REST API, can be used with any tool to get dat
 PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab.
 
 ### Concept pitch and Integration walk through
-can be found [here]().
+can be found [here](https://youtu.be/-nJMUjePG8c).
 
 ## Steps to run the app
 
